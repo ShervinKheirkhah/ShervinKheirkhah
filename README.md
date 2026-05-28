@@ -1,4 +1,4 @@
-```markdown
+
 <h1 align="center">
   Hi, I'm Shervin 👋
 </h1>
@@ -15,11 +15,11 @@
 
 I'm a Computer Science undergrad who refuses to just write code and forget about it. I like knowing **how** things run, **where** they run, and making sure they don't crash at 3 AM. 
 
-Currently, I'm caught in a fascinating love triangle between **Infrastructure (DevOps)**, **Language (NLP)**, and **Math (Deep Learning)**. I'm not an expert in any of them yet, but I'm learning fast.
+Currently, I'm caught in a fascinating love triangle between **Infrastructure (DevOps)**, **Language (NLP)**, and **Math (Deep Learning)**.
 
 - 🎓 Currently finishing my BSc in Computer Science.
-- 🛠️ Working part-time as a DevOps engineer — mostly taming Linux servers and writing Bash scripts.
-- 🧠 Deep-diving into NLP and Deep Learning (My IEEE paper is the result of one sleepless semester!).
+- 🛠️ Working part-time as a DevOps engineer, mostly taming Linux servers and writing Bash scripts.
+- 🧠 Deep-diving into NLP and Deep Learning or maybe XAI (My IEEE paper is the result of one sleepless semester!).
 - 🎯 Next goal: Master's program in Finland or Germany to merge my DevOps background with AI (MLOps sounds like my kind of chaos).
 
 ---
@@ -49,9 +49,11 @@ I believe in showing what I genuinely use, not just throwing buzzwords around. H
 
 ### 📜 Publications
 
-📄 **[اSoft Voting Ensemble with Mimic Tree Surrogate: A High-Fidelity XAI Framework for Tabular Medical Diagnosis]**
+
+📄 [Soft Voting Ensemble with Mimic Tree Surrogate: A High-Fidelity XAI Framework for Tabular Medical Diagnosis]
 *Published in: [The 2nd International Biennial Conference on
 Advances in Artificial Intelligence and Data Science IEEE] [2025]*
+
 *A collaborative research on XAI. It was my first taste of turning math into a published paper.*
 
 ---
@@ -74,4 +76,3 @@ Advances in Artificial Intelligence and Data Science IEEE] [2025]*
 <p align="center">
   <a href="mailto:sherikheirkhah3@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail&logoColor=white"></a>
  
-```
